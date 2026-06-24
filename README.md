@@ -38,7 +38,6 @@ This case study examines:
 ## Files
 
 - The-Whole-Truth-Brand-Strategy-Case-Study.pdf
-- The-Whole-Truth-Brand-Strategy-Case-Study.docx
 
 ## Disclaimer
 
